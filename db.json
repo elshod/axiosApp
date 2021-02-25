@@ -1,0 +1,19 @@
+{
+  "doctors": [
+    {
+      "title": "Farhod",
+      "spec": "Xirurg",
+      "id": 1
+    },
+    {
+      "title": "Hamida",
+      "spec": "Lor",
+      "id": 2
+    },
+    {
+      "title": "bbbb",
+      "spec": "Xirurg",
+      "id": 3
+    }
+  ]
+}
